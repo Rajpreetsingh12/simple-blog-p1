@@ -9,7 +9,7 @@ Nginx
 Installation
 Clone this repository:
 
-git clone https://github.com/Sukhilnair/CI_CD_project.git
+git clone https://github.com/Rajpreetsingh12/simple-blog-p1/tree/master
 Configure Nginx to serve your web application.
 
 Set up your CI/CD pipeline by configuring the config.json file located in CI_CD_project/ directory.
